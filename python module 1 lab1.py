@@ -1,0 +1,16 @@
+print("================================")
+print("       STUDENT PROFILE")
+print("================================")
+
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+branch = input("Enter your branch: ")
+college = input("Enter your college: ")
+
+print("\n---------- PROFILE ----------")
+print("Name    :", name)
+print("Age     :", age)
+print("Branch  :", branch)
+print("College :", college)
+print("-----------------------------")
+print("Welcome", name, "to Python Programming!")
